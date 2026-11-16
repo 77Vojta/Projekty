@@ -277,6 +277,12 @@ ScriptsOnlyBuild:
     className: WorldDocumentRaycaster
   - hash:
       serializedVersion: 2
+      Hash: 188fa1317c63ba87167f8cc4cdfa5877
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: PlayerController
+  - hash:
+      serializedVersion: 2
       Hash: c78ed13f6b5a632d70d4f73f56ad81f2
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
@@ -329,6 +335,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.InputSystem
     namespaceName: UnityEngine.InputSystem.HID.Editor
     className: HIDDescriptorWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 208f64e5a34698bc7e1126db2d0728ac
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: RunnerGame
   - hash:
       serializedVersion: 2
       Hash: 7bdff9e91edfd9600f92a185def7e34a
@@ -787,6 +799,12 @@ ScriptsOnlyBuild:
     className: MultiplayerEventSystem
   - hash:
       serializedVersion: 2
+      Hash: e7963fca2c778ee8dbbaff676340ef8d
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: NeonBloom
+  - hash:
+      serializedVersion: 2
       Hash: b12640dfdb5966813e9dd838893e6c4a
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
@@ -1061,25 +1079,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 188fa1317c63ba87167f8cc4cdfa5877
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: PlayerController
-  - hash:
-      serializedVersion: 2
-      Hash: 208f64e5a34698bc7e1126db2d0728ac
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: RunnerGame
-  - hash:
-      serializedVersion: 2
-      Hash: e7963fca2c778ee8dbbaff676340ef8d
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: NeonBloom
   platform: 2
   scenePathNames:
   - Assets/Scenes/Main.unity
-  playerPath: /Users/vojtechvyborny/NeonRunner/Builds/NeonRunner.app
+  playerPath: /Users/vojtechvyborny/NeonRunner/Neon.app
